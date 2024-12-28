@@ -1,15 +1,13 @@
 ---
-author: Sat Naing
+author: Isaac Dyor
 pubDatetime: 2024-12-01T20:00:00Z
-title: Getting the job
+title: How I got a software engineering job as a college dropout
 slug: getting-the-job
 featured: true
 draft: false
 tags:
   - wordware
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: In this article, I detail how I got a software engineering job as a 19 year old college dropout.
 ---
 
 ## Getting the trial
@@ -33,6 +31,7 @@ The problem with that is how do I actually convince them that I am a hard worker
 I decided that I was going to run a marathon with the Wordware logo on my chest, and film a video to send to the Wordware guys. I told my mom this and she asked "But... how does this even help convince them?" In all honesty I wasn't even sure it would. I thought there was a chance they would be like "okay this kid is a little crazy, let's give him a chance." But I knew there was a very real possibility they just wouldn't really care.
 
 I also thought running the marathon could prove to myself that I genuinely wanted this.
+
 I have a history of having a very obsessive personality where I get incredibly into things for 2-3 months and then something else grabs my attention and I am onto the next thing. I wanted to ensure that I didn't drop out of college to join a startup only to realize 3 months in that it's not for me. I thought that if I pushed myself to do the hardest physical thing I have ever done just for a chance at joining Wordware it was evidence enough that I seriously wanted this.
 
 ### The Marathon
@@ -41,7 +40,7 @@ I loaded up my Dad's running backpack with a couple bars and some water, painted
 
 I eventually finished the marathon. It took me a total of 8 hours giving me a pretty abysmal pace of 3.25 mph, but I was proud of myself. I compiled all of the clips I had taken before my phone died, along with a 7 minute video of me in a suit explaining why they should hire me, and I sent it over to them and waited.
 
-### The results
+## The results
 
 Two days later Robert emailed me: "This is freaking awesome, we love your energy! Have a quick chat with my cofounder and we'll work out how to best take a chance on you." I can't even explain how excited I was when I got this email.
 
