@@ -44,7 +44,7 @@ I eventually finished the marathon. It took me a total of 8 hours giving me a pr
 
 Two days later Robert emailed me: "This is freaking awesome, we love your energy! Have a quick chat with my cofounder and we'll work out how to best take a chance on you." I can't even explain how excited I was when I got this email.
 
-Filip, the CEO, called me a couple days later and asked if I could fly down in three weeks to do a trial. I said yes immediately and later checked my calendar to see I had a bunch of midterms during those two weeks. That meant I was going to have to drop my classes for the quarter, which I was fine with, but I knew my parents would not be.
+Filip, the CEO, called me a couple days later and asked if I could fly down in two days to do a trial. I said yes immediately and later checked my calendar to see I had a bunch of midterms during those two weeks. That meant I was going to have to drop my classes for the quarter, which I was fine with, but I knew my parents would not be.
 
 I talked it out with my parents and they agreed to let me drop out if I paid them the $8000 dollars they had spent on my college for the quarter. That was pretty much all of my money, which stung, but the thought of having the chance to work at the sickest company in the world as a 19-year-old was so worth it to me.
 
