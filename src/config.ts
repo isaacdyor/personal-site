@@ -7,7 +7,7 @@ export const SITE: Site = {
   desc: "A blog about my journey working in startups in San Francisco.",
   title: "Isaac Dyor",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerIndex: 4,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
@@ -43,13 +43,13 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/isaacdyor/",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
     href: "mailto:isaac@dyor.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
+    active: false,
   },
   {
     name: "X",

@@ -1,54 +1,26 @@
 ---
-import { getCollection } from "astro:content";
-import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import LinkButton from "@components/LinkButton.astro";
-import Hr from "@components/Hr.astro";
-import Card from "@components/Card";
-import Socials from "@components/Socials.astro";
-import getSortedPosts from "@utils/getSortedPosts";
-import { SITE, SOCIALS } from "@config";
-
-const posts = await getCollection("blog");
-
-const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
-
-const socialCount = SOCIALS.filter(social => social.active).length;
+import Layout from "@layouts/Layout.astro";
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Isaac Dyor</h1>
-
       <p>
-        I decided to drop out of college to pursue my passion for software at
-        <a class="text-skin-accent underline" href="https://wordware.ai"
+        I am a 20 year old college dropout working on memory at
+        <a class="text-skin-accent hover:underline" href="https://wordware.ai"
           >Wordware</a
-        >, the greatest company in the world. I have the privilege of working
-        with some of the smartest and most talented people in the world. Through
-        this blog, I aim to document my small part in shaping the way AI impacts
-        every facet of our lives.
+        >.
       </p>
-
-      {
-        // only display if at least one social link is enabled
-        socialCount > 0 && (
-          <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
+      <p>
+        I want to build agents that learn. I like to lift, do muay thai, and
+        surf. I like to cook good steaks, and sauna. I also like to listen to
+        read good books and write.
+      </p>
     </section>
 
-    <Hr />
-
-    {
+    <!-- {
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
@@ -66,8 +38,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           {recentPosts.length > 0 && <Hr />}
         </>
       )
-    }
-
+    } -->
+    <!-- 
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
@@ -86,9 +58,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           </ul>
         </section>
       )
-    }
+    } -->
 
-    <div class="all-posts-btn-wrapper">
+    <!-- <div class="all-posts-btn-wrapper">
       <LinkButton href="/posts/">
         All Posts
         <svg xmlns="http://www.w3.org/2000/svg"
@@ -97,10 +69,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path>
         </svg>
       </LinkButton>
-    </div>
+    </div> -->
   </main>
-
-  <Footer />
 </Layout>
 
 <style>
