@@ -17,9 +17,9 @@ export type Props = StringTitleProp | ArrayTitleProp;
 const { props } = Astro;
 ---
 
-<Breadcrumbs />
+<!-- <Breadcrumbs /> -->
 <main id="main-content">
-  {
+  <!-- {
     "titleTransition" in props ? (
       <h1>
         {props.pageTitle[0]}
@@ -31,7 +31,7 @@ const { props } = Astro;
       <h1>{props.pageTitle}</h1>
     )
   }
-  <p>{props.pageDesc}</p>
+  <p>{props.pageDesc}</p> -->
   <slot />
 </main>
 

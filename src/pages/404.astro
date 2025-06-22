@@ -1,9 +1,8 @@
 ---
+import Header from "@components/Header.astro";
+import LinkButton from "@components/LinkButton.astro";
 import { SITE } from "@config";
 import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import LinkButton from "@components/LinkButton.astro";
 ---
 
 <Layout title={`404 Not Found | ${SITE.title}`}>
@@ -22,8 +21,6 @@ import LinkButton from "@components/LinkButton.astro";
       </LinkButton>
     </div>
   </main>
-
-  <Footer />
 </Layout>
 
 <style>
