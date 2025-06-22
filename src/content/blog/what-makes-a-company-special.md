@@ -8,7 +8,7 @@ draft: false
 tags:
   - wordware
   - thoughts
-description: In this article, I talk about my opinions on what makes certain companies special.
+description: Some thoughts on what makes certain companies feel special.
 ---
 
 I think there are some companies that are undeniably special. I think Apple was a special company. I don't consider it very special anymore, and it seems almost impossible to maintain that same level of special through decades and trillions of dollars of growth. But at one point in time I think most would agree it was special.

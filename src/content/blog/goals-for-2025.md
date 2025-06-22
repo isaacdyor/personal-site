@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
   - goals
-description: In this article, I detail my goals for 2025.
+description: My goals for 2025.
 ---
 
 I am more excited for 2025 than I have been for any year in history. This is the first year of my life where I don't have to work on meaningless work. I can spend every waking moment working on/thinking about really impactful stuff. That feeling is incredibly freeing and it makes me so excited for what I can create this year. In order to make sure this year is as good as I know it can be I am going to lay out some general goals I want to follow.

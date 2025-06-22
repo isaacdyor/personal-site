@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
   - wordware
-description: In this article, I detail how I got a software engineering job as a 19 year old college dropout.
+description: How I landed a software engineering job as a 19 year old college dropout.
 ---
 
 ## Getting the trial
